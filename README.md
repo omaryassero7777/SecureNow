@@ -2,17 +2,15 @@
 
 <img src="assets/hexstrike-logo.png" alt="HexStrike AI Logo" width="220" style="margin-bottom: 20px;"/>
 
-# HexStrike AI MCP Agents v6.0
+# SecureNow AI MCP Agents 
 ### AI-Powered MCP Cybersecurity Automation Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![MCP](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Version](https://img.shields.io/badge/Version-6.0.0-orange.svg)](https://github.com/0x4m4/hexstrike-ai/releases)
-[![Tools](https://img.shields.io/badge/Security%20Tools-150%2B-brightgreen.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Agents](https://img.shields.io/badge/AI%20Agents-12%2B-purple.svg)](https://github.com/0x4m4/hexstrike-ai)
-[![Stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social)](https://github.com/0x4m4/hexstrike-ai)
+[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red.svg)](https://github.com/omaryassero7777/SecureNow)
+[![MCP](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://github.com/omaryassero7777/SecureNow)
+[![Tools](https://img.shields.io/badge/Security%20Tools-150%2B-brightgreen.svg)](https://github.com/omaryassero7777/SecureNow)
+[![Agents](https://img.shields.io/badge/AI%20Agents-12%2B-purple.svg)](https://github.com/omaryassero7777/SecureNow)
+[![Stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social)](https://github.com/omaryassero7777/SecureNow)
 
 **Advanced AI-powered penetration testing MCP framework with 150+ security tools and 12+ autonomous AI agents**
 
@@ -20,31 +18,9 @@
 
 </div>
 
----
-
-<div align="center">
-
-## Follow Our Social Accounts
-
-<p align="center">
-  <a href="https://discord.gg/BWnmrrSHbA">
-    <img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/hexstrike-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20us-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow us on LinkedIn" />
-  </a>
-</p>
-
-
-
-</div>
-
----
-
 ## Architecture Overview
 
-HexStrike AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
+SecureNow AI MCP features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
 
 ```mermaid
 %%{init: {"themeVariables": {
@@ -114,13 +90,13 @@ graph TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/0x4m4/hexstrike-ai.git
-cd hexstrike-ai
+git clone https://github.com/omaryassero7777/SecureNow
+cd SecureNow
 
 # 2. Create virtual environment
-python3 -m venv hexstrike-env
-source hexstrike-env/bin/activate  # Linux/Mac
-# hexstrike-env\Scripts\activate   # Windows
+python3 -m venv SecureNow-env
+source SecureNow-env/bin/activate  # Linux/Mac
+# SecureNow-env\Scripts\activate   # Windows
 
 # 3. Install Python dependencies
 pip3 install -r requirements.txt
@@ -128,10 +104,6 @@ pip3 install -r requirements.txt
 ```
 
 ### Installation and Setting Up Guide for various AI Clients:
-
-#### Installation & Demo Video
-
-Watch the full installation and setup walkthrough here: [YouTube - HexStrike AI Installation & Demo](https://www.youtube.com/watch?v=pSoftCagCm8)
 
 #### Supported AI Clients for Running & Integration
 
@@ -143,9 +115,6 @@ You can install and run HexStrike AI MCPs with various AI clients, including:
 - **Cursor**
 - **Claude Desktop**
 - **Any MCP-compatible agent**
-
-Refer to the video above for step-by-step instructions and integration examples for these platforms.
-
 
 
 ### Install Security Tools
