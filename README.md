@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hexstrike-logo.png" alt="HexStrike AI Logo" width="220" style="margin-bottom: 20px;"/>
+<img src="assets/SecureNowLogo.png" alt="HexStrike AI Logo" width="220" style="margin-bottom: 20px;"/>
 
 # SecureNow AI MCP Agents 
 ### AI-Powered MCP Cybersecurity Automation Platform
