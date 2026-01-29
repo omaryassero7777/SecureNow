@@ -2,7 +2,7 @@
 
 <img src="assets/securenow-logo.png" alt="SecureNow AI Logo" width="220" style="margin-bottom: 20px;"/>
 
-# SecureNow AI MCP Agents v6.0
+# SecureNow AI MCP Agents v1.0
 ### AI-Powered MCP Cybersecurity Automation Platform
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -24,7 +24,7 @@
 
 ## Architecture Overview
 
-SecureNow AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
+SecureNow AI MCP v1.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
 
 ```mermaid
 %%{init: {"themeVariables": {
@@ -563,7 +563,7 @@ AI Agent: "Thank you for clarifying ownership and intent. To proceed with a pene
 
 ---
 
-## SecureNow AI v7.0 - Release Coming Soon!
+## SecureNow AI v2.0 - Release Coming Soon!
 
 ### Key Improvements & New Features
 
@@ -708,7 +708,8 @@ MIT License - see LICENSE file for details.
 
 **Made with ❤️ by the cybersecurity community for AI-powered security automation**
 
-*SecureNow AI v6.0 - Where artificial intelligence meets cybersecurity excellence*
+*SecureNow AI v1.0 - Where artificial intelligence meets cybersecurity excellence*
 
 </div>
+
 
