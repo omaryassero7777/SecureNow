@@ -16,7 +16,7 @@
 
 **Advanced AI-powered penetration testing MCP framework with 150+ security tools and 12+ autonomous AI agents**
 
-[📋 What's New](#whats-new-in-v60) • [🏗️ Architecture](#architecture-overview) • [🚀 Installation](#installation) • [🛠️ Features](#features) • [🤖 AI Agents](#ai-agents) • [📡 API Reference](#api-reference)
+[📋 What's New](#whats-new-in-v10) • [🏗️ Architecture](#architecture-overview) • [🚀 Installation](#installation) • [🛠️ Features](#features) • [🤖 AI Agents](#ai-agents) • [📡 API Reference](#api-reference)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ## Architecture Overview
 
-SecureNow AI MCP v6.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
+SecureNow AI MCP v1.0 features a multi-agent architecture with autonomous AI agents, intelligent decision-making, and vulnerability intelligence.
 
 ```mermaid
 %%{init: {"themeVariables": {
@@ -731,3 +731,4 @@ MIT License - see LICENSE file for details.
 *SecureNow AI v6.0 - Where artificial intelligence meets cybersecurity excellence*
 
 </div>
+
